@@ -1,2 +1,6 @@
 test itt............
+<<<<<<< HEAD
 ksks
+=======
+After test...
+>>>>>>> 2b765956c212fa6408046c487eca03caa67b4300
